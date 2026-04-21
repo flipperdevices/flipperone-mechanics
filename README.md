@@ -6,6 +6,7 @@ This repository is part of the [Flipper One Mechanics](https://github.com/orgs/f
 
 ## Versioning scheme
 
+
 Enclosure 3D model versions consist of two parts: `<LETTER>.<NUMBER>` (for example, `A.1`).
 
 - **LETTER** — major version. Different major versions are **not mechanically compatible** with each other.  
